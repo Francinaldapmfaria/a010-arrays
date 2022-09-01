@@ -14,3 +14,4 @@ console.log(sobremesas)
 const diversos = [17,24, "árvore", "flores", true, false]
 console.log(diversos)
 
+// Exercício realizado
